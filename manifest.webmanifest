@@ -1,18 +1,24 @@
 {
-  "name": "Roast My Friends",
-  "short_name": "Roast Cards",
-  "description": "Create and share manga-style comedy roast cards",
+  "name": "USCW Arena \u2014 Private Beta",
+  "short_name": "USCW Arena",
+  "description": "Private beta of USCW wrestling career game",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#110d20",
-  "theme_color": "#171022",
+  "background_color": "#080b12",
+  "theme_color": "#080b12",
   "icons": [
     {
-      "src": "assets/app-icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }

@@ -1,0 +1,9 @@
+USCW Arena Alpha 4.4 - PRIVATE BETA
+
+Upload the contents of this directory to the root of an HTTPS static website.
+Test on iPhone Safari before inviting 3-5 friends.
+Each tester has an independent local career; this is not multiplayer.
+Feedback is copied by each tester; it is not sent automatically.
+Avoid entering personal or sensitive information.
+No account system or central database exists yet.
+The game is an Alpha test with fictional simulation data.

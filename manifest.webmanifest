@@ -1,0 +1,18 @@
+{
+  "name": "Roast My Friends",
+  "short_name": "Roast Cards",
+  "description": "Create and share manga-style comedy roast cards",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#110d20",
+  "theme_color": "#171022",
+  "icons": [
+    {
+      "src": "assets/app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
